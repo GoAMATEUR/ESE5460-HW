@@ -15,11 +15,11 @@ print(x.shape)
 # theta = np.pi / 4
 # bandwidth = 0.1
 
-fig, axs = plt.subplots(6, 6, figsize=(10, 10))
+# fig, axs = plt.subplots(6, 6, figsize=(10, 10))
 
-# Hide axes for all subplots
-for ax in axs.flatten():
-    ax.axis('off')
+# # Hide axes for all subplots
+# for ax in axs.flatten():
+#     ax.axis('off')
 
 
 
